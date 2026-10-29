@@ -1,4 +1,4 @@
-# Diagnostico estrategico integral para RappiPlus**
+# Diagnostico estrategico integral para RappiPlus
 El equipo de negocio no tiene claro si el servicio está cumpliendo su objetivo.
 
 Existen dudas clave:
